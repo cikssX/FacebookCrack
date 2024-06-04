@@ -3,13 +3,14 @@
 # FacebookCrack
 Get fb ? try 
 
-#RUN
-rm -rf FacebookCrack 
+# RUN
 
-git clone https://github.com/cikssX/FacebookCrack.git
+*rm -rf FacebookCrack* 
 
-cd FacebookCrack
+*git clone https://github.com/cikssX/FacebookCrack.git*
 
-ls
+*cd FacebookCrack*
 
-python FacebookCrack
+*ls*
+
+*python FacebookCrack*
